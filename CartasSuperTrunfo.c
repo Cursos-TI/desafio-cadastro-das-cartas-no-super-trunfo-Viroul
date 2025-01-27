@@ -138,8 +138,8 @@ void adicionar_cidade(struct Carta *Dados_da_cidade) {
 int main() {
     struct Carta Especificacoes_da_Carta = {0}; // Inicializando a struct com valores padrão
     int parar = 1;
-    while (parar == 1) {
 
+    while (parar == 1) {
         // Cadastro de um estado
         adicionar_estado(&Especificacoes_da_Carta);
 
