@@ -1,3 +1,5 @@
+/*ESTE CODIOGO É APENAS UM TESTE QUE EU TENTEI FAZER SEM SEGUIR AS REGRAS ESTABELECIDAS*/
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
